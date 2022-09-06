@@ -1,4 +1,4 @@
-public class Hahing_Table {
+public class Hashing_Table {
     static final int SIZE = 5;
     int arr [] = new int[SIZE];
     
